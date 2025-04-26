@@ -1,0 +1,1 @@
+**LLM-as-Judge** consists the code I have used for grading the model for getting the correct answer via COT. I have for now tested with one demo model and one actual model of interest of ours i.e. Openthinker2-7B. Now, we are interested in grading it. Had a few difficulties but should be rsolved soon.
